@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albermrt
-- 👀 I’m interested in developing chalenging projects
+- 👀 I’m interested in developing challenging projects
 - 🌱 I’m currently learning C++ and phyton
 
 - 📫 How to reach me? --> albert.mrt@gmail.com
