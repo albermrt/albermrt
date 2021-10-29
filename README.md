@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @albermrt
+- 👋 Hi, I’m Alberto
 - 👀 I’m interested in developing challenging projects
-- 🌱 I’m currently learning C++ and phyton
+- 🌱 I’m currently learning C++ for arduino based projects and phyton
 
 - 📫 How to reach me? --> albert.mrt@gmail.com
 
