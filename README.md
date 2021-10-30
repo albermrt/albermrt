@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alberto
 - 👀 I’m interested in developing challenging projects
 - 🌱 I’m currently learning C++ for arduino based projects and phyton
-- 😅  If it seems like I know what I'm doing it's probably by chance
+- 😅  If it seems like I know what I'm doing it's probably pure chance
 - 📫 How to reach me? --> albert.mrt@gmail.com
 
 <!---
